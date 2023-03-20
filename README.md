@@ -13,3 +13,10 @@ When I am not on the internet trying to improve on my web dev abilities, I -
 
 ### Growth Mindset
 Growth mindset is a state of mind needed to overcome challenges and learn. It involves seeing challenges as opportunity to learn and develop rather than being discouraged by it. 
+
+**How to stay in a growth mindset**
+1. Take constructive feedback well, seek to improve on it rather than be annoyed by it.
+2. See every setback or challenges as an opportunity to learn.
+3. Be inspired by the success of others.
+
+You can keep up with my profile :point_right: [here] (https://github.com/Awalamoo7)
