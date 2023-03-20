@@ -21,4 +21,4 @@ Growth mindset is a state of mind needed to overcome challenges and learn. It in
 
 You can keep up with my profile :point_right: [here](https://github.com/Awalamoo7)
 
-![This is an image of a cute cat](https://images.app.goo.gl/SoTHdrCQGN5L6pZt6)
+![This is an image of a cute cat]([https://images.app.goo.gl/SoTHdrCQGN5L6pZt6](https://freesvg.org/img/cute-cat.png))
