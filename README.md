@@ -19,4 +19,4 @@ Growth mindset is a state of mind needed to overcome challenges and learn. It in
 2. See every setback or challenges as an opportunity to learn.
 3. Be inspired by the success of others.
 
-You can keep up with my profile :point_right: [here] (https://github.com/Awalamoo7)
+You can keep up with my profile :point_right: [here](https://github.com/Awalamoo7)
