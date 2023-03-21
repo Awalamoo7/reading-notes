@@ -15,7 +15,7 @@ When I am not on the internet trying to improve on my web dev abilities, I -
 ### Classes
 
 - [Class 01](https://awalamoo7.github.io/reading-notes/code-102/102class01)
-- [Class 02](https://awalamoo7.github.io/reading-notes/code-201/201class01)
+- [Class 02](https://awalamoo7.github.io/reading-notes/code-102/102class01)
 
 You can keep up with my profile :point_right: [here](https://github.com/Awalamoo7)
 
