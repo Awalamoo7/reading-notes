@@ -12,7 +12,7 @@ When I am not on the internet trying to improve on my web dev abilities, I -
 - Watch football
 - Eat
 
-### Classes
+### Class 102 - Introduction to Software development
 
 - [Class 01](https://awalamoo7.github.io/reading-notes/code-102/102class01)
 - [Class 02](https://awalamoo7.github.io/reading-notes/code-102/102class02)
@@ -22,6 +22,10 @@ When I am not on the internet trying to improve on my web dev abilities, I -
 - [Class 06](https://awalamoo7.github.io/reading-notes/code-102/102class06)
 - [Class 07](https://awalamoo7.github.io/reading-notes/code-102/102class07)
 - [Class 08](https://awalamoo7.github.io/reading-notes/code-102/102class08)
+
+### Class 201 - Foundation of Software development
+
+- [Class 01](https://awalamoo7.github.io/reading-notes/code-201/201class01)
 
 You can keep up with my profile :point_right: [here](https://github.com/Awalamoo7)
 
