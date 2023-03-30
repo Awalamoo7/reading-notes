@@ -19,6 +19,9 @@ When I am not on the internet trying to improve on my web dev abilities, I -
 - [Class 03](https://awalamoo7.github.io/reading-notes/code-102/102class03)
 - [Class 04](https://awalamoo7.github.io/reading-notes/code-102/102class04)
 - [Class 05](https://awalamoo7.github.io/reading-notes/code-102/102class05)
+- [Class 06](https://awalamoo7.github.io/reading-notes/code-102/102class06)
+- [Class 07](https://awalamoo7.github.io/reading-notes/code-102/102class07)
+- [Class 08](https://awalamoo7.github.io/reading-notes/code-102/102class08)
 
 You can keep up with my profile :point_right: [here](https://github.com/Awalamoo7)
 
